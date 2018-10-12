@@ -1,2 +1,1 @@
-# OnlineShopAngular
-Test repository for Cursor Education students
+# Result in the folder img
